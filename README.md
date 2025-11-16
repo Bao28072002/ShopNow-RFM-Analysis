@@ -1,5 +1,7 @@
 # Customer Segmentation & RFM Analysis for ShopNow E-commerce
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c40761f-0e76-4790-8cc1-1a4a90d8bdd0" />
+
 **Author:** Lê Gia Bảo
 
 **Date:** November 2025
