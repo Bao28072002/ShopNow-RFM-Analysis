@@ -280,3 +280,29 @@ ORDER BY
 ### 🧨 Who are the hard-to-engage customers?
 
 - **At Risk** group has low CLV + low frequency → Requires selective remarketing
+
+🎯 Action Plan and Strategy based on CLV and Customer Segments
+
+This document summarizes the marketing strategies based on customer segmentation using Customer Lifetime Value (CLV).
+
+## 1. ✅ Proposed Actions
+
+The table below outlines the specific action strategies for each customer segment.
+
+| Segment | Strategy |
+| :--- | :--- |
+| **Champions** | VIP offers, retention |
+| **Potential** | Increase frequency using vouchers |
+| **At Risk** | Send promotional email to encourage return |
+| **Lost** | Remarketing or discontinue investment |
+
+## 2. 🎯 Detailed CLV Strategy (Action Plan)
+
+This table provides a more detailed look at the CLV strategies applied to each group.
+
+| Segment | Specific CLV Strategy |
+| :--- | :--- |
+| **Champions** | Maintain VIP relationship, upsell |
+| **Potential** | Early re-purchase activation with incentives |
+| **At Risk** | Optimize remarketing campaign or replace |
+| **Lost** | Can be removed from the main campaign |
